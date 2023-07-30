@@ -9,7 +9,6 @@ total=numb1+numb2;
 console.log(total);
 
 var firstassignment:string="hey abu hurairah iam learning typescript";
-
 console.log(firstassignment);
 
 let numb3=10;
@@ -31,9 +30,9 @@ console.log("subtraction of 5 numbers");
 console.log("subtraction:" + subtraction);
 
 let multiplication;
-multiplication=numb1+numb2+numb3+numb4+numb5;
-console.log("Multiplication of 5 numbers");
-console.log("multiplication:" + multiplication);
+multiplication=numb1*numb2*numb3*numb4*numb5;
+console.log("multiplication of 5 numbers");
+console.log(multiplication);
 
 let divide;
 divide=numb1/numb2/numb3/numb4
@@ -43,7 +42,7 @@ console.log("divide:" + divide);
 
 
 let bool;
-bool;let x=89;let y=89;
+bool;let x=22;let y=22;
 bool=!(x==y);
 console.log("boolian result");
 console.log("bool:" + bool);
